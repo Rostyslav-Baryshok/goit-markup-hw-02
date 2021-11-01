@@ -43,10 +43,6 @@ body {
   color: var(--accent-color);
 }
 .contact-link {
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
   color: var(--mein-text-color);
 }
 .contact-link:hover,
@@ -99,7 +95,7 @@ body {
   color: var(--mein-text-color);
 }
 /* Our classes */
-.our-classes-title {
+.second-level-headings {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -108,14 +104,6 @@ body {
   color: var(--secondary-text-color);
 }
 /* Our team */
-.our-team-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.16;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: var(--secondary-text-color);
-}
 .our-team-section {
   background: var(--our-tea-background);
 }
@@ -138,14 +126,6 @@ body {
 /* Footer */
 .footer {
   background: var(--hero-footer-background);
-}
-.logo-footer {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
-  color: var(--accent-color);
 }
 .menu-footer {
   font-weight: 400;
